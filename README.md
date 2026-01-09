@@ -43,5 +43,13 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 ---
 
+## 📊 Statistiche GitHub
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=bobmoukhlis-hash&show_icons=true&theme=tokyonight)
+
+![Top Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmoukhlis-hash&layout=compact&theme=tokyonight)
+
+---
+
 ⭐ _“Il futuro è di chi trasforma le idee in codice.”_  
 © 2026 Bouabid Moukhlis. Tutti i diritti riservati.
