@@ -37,11 +37,11 @@ Pagina ufficiale ospitata su GitHub Pages.
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobmoukhlis-hash&show_icons=true&theme=tokyonight" alt="Statistiche GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bobmoukhlis-hash&show_icons=true&theme=tokyonight" alt="Statistiche GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobmoukhlis-hash&layout=compact&theme=tokyonight" alt="Top Linguaggi" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bobmoukhlis-hash&layout=compact&theme=tokyonight" alt="Top Linguaggi" />
 </p>
 
 ---
