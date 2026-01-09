@@ -1,5 +1,8 @@
 # 👋 Ciao, sono **Bouabid Moukhlis**
-
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-online-blue?style=for-the-badge)](https://bobmoukhlis-hash.github.io/)
+[![ChatAI Bob](https://img.shields.io/badge/🤖%20ChatAI%20Bob-active-brightgreen?style=for-the-badge)](https://bobmoukhlis-hash.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/bobmoukhlis-hash?label=Followers&style=for-the-badge)](https://github.com/bobmoukhlis-hash)
+[![Stars](https://img.shields.io/github/stars/bobmoukhlis-hash?label=Stars&style=for-the-badge)](https://github.com/bobmoukhlis-hash)
 🎯 **Sviluppatore di progetti AI e Web App**  
 Appassionato di intelligenza artificiale, automazione e interfacce moderne.  
 Creo esperienze digitali dove il codice incontra la creatività.
