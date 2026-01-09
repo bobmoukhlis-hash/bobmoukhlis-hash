@@ -34,13 +34,17 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 ---
 
-##<p align="center">
+## 📊 Statistiche GitHub
+
+<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bobmoukhlis-hash&show_icons=true&theme=tokyonight" alt="Statistiche GitHub" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bobmoukhlis-hash&layout=compact&theme=tokyonight" alt="Top Linguaggi" />
 </p>
+
+---
 
 ## 📅 Grafico dei contributi
 
@@ -60,3 +64,7 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 ⭐ _“Il futuro è di chi trasforma le idee in codice.”_  
 © 2026 **Bouabid Moukhlis** – Tutti i diritti riservati.
+---
+
+👁️ **Visitatori del profilo:**  
+![Profile views](https://komarev.com/ghpvc/?username=bobmoukhlis-hash&label=Visite%20profilo&color=0e75b6&style=for-the-badge)
