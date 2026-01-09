@@ -36,6 +36,10 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 ---
 
+## 📅 Grafico dei contributi
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bobmoukhlis-hash&theme=github-dark)](https://github.com/bobmoukhlis-hash)
+
 ## 📬 Contatti
 📧 Email: **bobmoukhlis@gmail.com**  
 🌍 [GitHub](https://github.com/bobmoukhlis-hash)  
