@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Ciao, sono **Bouabid Moukhlis**
 
-<!--
-**bobmoukhlis-hash/bobmoukhlis-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sviluppatore di progetti AI e Web App**  
+Appassionato di intelligenza artificiale, automazione e interfacce moderne.  
+Creo esperienze digitali dove il codice incontra la creatività.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Progetti principali
+
+### 🤖 [ChatAI Bob (Web)](https://bobmoukhlis-hash.github.io/)
+Assistente intelligente basato su AI.  
+Permette di fare domande, ottenere idee, migliorare testi e ricevere risposte rapide.
+
+### 🧩 [ChatAI Bob Backend](https://github.com/bobmoukhlis-hash/chatai-bob-backend)
+Backend Python che gestisce il motore conversazionale di ChatAI Bob.
+
+### 🌐 [Portfolio GitHub Pages](https://github.com/bobmoukhlis-hash/bobmoukhlis-hash.github.io)
+Pagina ufficiale ospitata su GitHub Pages.
+
+---
+
+## 🧰 Competenze
+💻 **Linguaggi:** Python · JavaScript · HTML · CSS  
+⚙️ **Framework:** Flask · Bootstrap  
+🧠 **AI & Tools:** OpenAI API · GitHub Copilot · TensorFlow  
+🗄️ **Database:** Firebase · SQLite  
+📱 **App:** Android (AppCreator24, WebApp Hybrid)
+
+---
+
+## 📊 Statistiche GitHub
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=bobmoukhlis-hash&show_icons=true&theme=tokyonight)  
+![Top Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmoukhlis-hash&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contatti
+📧 Email: **bobmoukhlis@gmail.com**  
+🌍 [GitHub](https://github.com/bobmoukhlis-hash)  
+💬 [ChatAI Bob Online](https://bobmoukhlis-hash.github.io/)
+
+---
+
+⭐ _“Il futuro è di chi trasforma le idee in codice.”_  
+© 2026 Bouabid Moukhlis. Tutti i diritti riservati.
