@@ -2,8 +2,8 @@ name: 🧩 Aggiorna lista progetti
 
 on:
   schedule:
-    - cron: '0 8 * * *' # ogni giorno alle 8 del mattino
-  workflow_dispatch: # puoi eseguirlo anche manualmente
+    - cron: "0 9 * * *"  # ⏰ Esegue ogni giorno alle 09:00 UTC (10:00 in Italia/Marocco)
+  workflow_dispatch:      # Puoi ancora avviarlo manualmente se vuoi
 
 jobs:
   update:
