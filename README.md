@@ -25,6 +25,16 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 ---
 
+## 🚀 Ultimi progetti pubblici (aggiornamento automatico)
+
+<!--START_SECTION:projects-->
+<!-- I tuoi ultimi repository appariranno qui automaticamente -->
+<!--END_SECTION:projects-->
+
+*(Aggiornato automaticamente ogni giorno con i tuoi nuovi repository GitHub)*
+
+---
+
 ## 🧰 Competenze
 💻 **Linguaggi:** Python · JavaScript · HTML · CSS  
 ⚙️ **Framework:** Flask · Bootstrap  
@@ -64,6 +74,7 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 ⭐ _“Il futuro è di chi trasforma le idee in codice.”_  
 © 2026 **Bouabid Moukhlis** – Tutti i diritti riservati.
+
 ---
 
 👁️ **Visitatori del profilo:**  
