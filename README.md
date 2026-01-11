@@ -1,6 +1,6 @@
 # 👋 Ciao, sono **Bouabid Moukhlis**
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-online-blue?style=for-the-badge)](https://bobmoukhlis-hash.github.io/home.html)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-online-blue?style=for-the-badge)](https://bobmoukhlis-hash.github.io/)
 [![ChatAI Bob](https://img.shields.io/badge/🤖%20ChatAI%20Bob-active-brightgreen?style=for-the-badge)](https://bobmoukhlis-hash.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/bobmoukhlis-hash?label=Followers&style=for-the-badge)](https://github.com/bobmoukhlis-hash)
 [![Stars](https://img.shields.io/github/stars/bobmoukhlis-hash?label=Stars&style=for-the-badge)](https://github.com/bobmoukhlis-hash)
@@ -20,7 +20,7 @@ Permette di fare domande, ottenere idee, migliorare testi e ricevere risposte ra
 ### 🧩 [ChatAI Bob Backend](https://github.com/bobmoukhlis-hash/chatai-bob-backend)
 Backend Python che gestisce il motore conversazionale di ChatAI Bob.
 
-### 🌐 [Portfolio GitHub Pages](https://bobmoukhlis-hash.github.io/home.html)
+### 🌐 [Portfolio GitHub Pages](https://bobmoukhlis-hash.github.io/)
 Pagina ufficiale ospitata su GitHub Pages.
 
 ---
