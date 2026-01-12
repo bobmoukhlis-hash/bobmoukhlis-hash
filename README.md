@@ -11,7 +11,7 @@ Creo esperienze digitali dove il codice incontra la creatività.
 
 ---
 
-## 🧠 Progetti principali
+## 🧠 Progetti principali (Web & AI)
 
 ### 🤖 [ChatAI Bob (Web)](https://bobmoukhlis-hash.github.io/)
 Assistente intelligente basato su AI.  
@@ -22,9 +22,20 @@ Backend Python che gestisce il motore conversazionale di ChatAI Bob.
 
 ### 🌐 [Portfolio GitHub Pages](https://bobmoukhlis-hash.github.io/)
 Pagina ufficiale ospitata su GitHub Pages.
-
 ---
+## 📱 App Android (Google Play)
 
+🔗 **ChatAI Bob (Android)**  
+Assistente AI intelligente con modalità online e offline.  
+👉 https://play.google.com/store/apps/details?id=TUO.PACKAGE.ID
+
+🎮 **Aztec Puzzle Run**  
+Gioco puzzle casual ambientato nel mondo azteco.  
+👉 https://play.google.com/store/apps/details?id=TUO.PACKAGE.ID
+
+🎯 **Battle Hunt** *(in arrivo)*  
+Gioco action / shooter.  
+⏳ Prossimamente su Google Play
 ## 🚀 Ultimi progetti pubblici (aggiornamento automatico)
 
 <!--START_SECTION:projects-->
