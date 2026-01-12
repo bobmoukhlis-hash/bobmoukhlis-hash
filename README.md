@@ -27,7 +27,7 @@ Pagina ufficiale ospitata su GitHub Pages.
 
 🎮 **Aztec Puzzle Run**  
 Gioco puzzle casual ambientato nel mondo azteco.  
-👉 https://play.google.com/store/apps/details?id=fuga.dagliaztechiqueatw
+👉 https://play.google.com/store/apps/details?id=fuga.dagliaztechi
 
 🎯 **Battle Hunt**  
 Gioco action / shooter multiplayer.  
