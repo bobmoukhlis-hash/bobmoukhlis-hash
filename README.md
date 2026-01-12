@@ -25,17 +25,17 @@ Pagina ufficiale ospitata su GitHub Pages.
 ---
 ## 📱 App Android (Google Play)
 
-🔗 **ChatAI Bob (Android)**  
+🤖 **ChatAI Bob (Android)** *(in pubblicazione)*  
 Assistente AI intelligente con modalità online e offline.  
-👉 https://play.google.com/store/apps/details?id=TUO.PACKAGE.ID
+⏳ Prossimamente su Google Play
 
 🎮 **Aztec Puzzle Run**  
 Gioco puzzle casual ambientato nel mondo azteco.  
-👉 https://play.google.com/store/apps/details?id=TUO.PACKAGE.ID
+👉 https://play.google.com/store/apps/details?id=fuga.dagliaztechiqueatw
 
-🎯 **Battle Hunt** *(in arrivo)*  
+🎯 **Battle Hunt**  
 Gioco action / shooter.  
-⏳ Prossimamente su Google Play
+👉 https://play.google.com/store/apps/details?id=battle.hunt
 ## 🚀 Ultimi progetti pubblici (aggiornamento automatico)
 
 <!--START_SECTION:projects-->
