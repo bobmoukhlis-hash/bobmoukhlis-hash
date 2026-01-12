@@ -23,19 +23,19 @@ Backend Python che gestisce il motore conversazionale di ChatAI Bob.
 ### 🌐 [Portfolio GitHub Pages](https://bobmoukhlis-hash.github.io/)
 Pagina ufficiale ospitata su GitHub Pages.
 ---
-## 📱 App Android (Google Play)
-
-🤖 **ChatAI Bob (Android)** *(in pubblicazione)*  
-Assistente AI intelligente con modalità online e offline.  
-⏳ Prossimamente su Google Play
+📱 **App Android (Google Play)**
 
 🎮 **Aztec Puzzle Run**  
 Gioco puzzle casual ambientato nel mondo azteco.  
 👉 https://play.google.com/store/apps/details?id=fuga.dagliaztechiqueatw
 
 🎯 **Battle Hunt**  
-Gioco action / shooter.  
+Gioco action / shooter multiplayer.  
 👉 https://play.google.com/store/apps/details?id=battle.hunt
+
+🤖 **ChatAI Bob (Android)**  
+Assistente AI intelligente con modalità online e offline.  
+⏳ In pubblicazione su Google Play
 ## 🚀 Ultimi progetti pubblici (aggiornamento automatico)
 
 <!--START_SECTION:projects-->
