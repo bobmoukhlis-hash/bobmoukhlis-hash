@@ -2,8 +2,8 @@ name: 🧩 Aggiorna lista progetti
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # ⏰ Esegue ogni giorno alle 09:00 UTC (10:00 in Italia/Marocco)
-  workflow_dispatch:      # Puoi ancora avviarlo manualmente se vuoi
+    - cron: "0 9 * * *"  # 09:00 UTC
+  workflow_dispatch:
 
 jobs:
   update:
@@ -13,14 +13,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: ⚙️ Aggiorna lista progetti nel README
-        uses: JamesIves/github-activity-readme@v0.2.0
+        uses: jamesives/github-activity-readme@v0.3.0
         with:
-          COMMIT_MESSAGE: "🔄 Aggiornamento automatico dei progetti"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: bobmoukhlis-hash
-          REPO_NAME: bobmoukhlis-hash
           MAX_REPOS: 5
-          SECTION_NAME: projects
 
       - name: ✅ Commit finale
         run: |
