@@ -1,6 +1,8 @@
 name: 🧩 Aggiorna lista progetti
 
 on:
+permissions:
+  contents: write
   schedule:
     - cron: "0 9 * * *"
   workflow_dispatch:
@@ -15,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Aggiorna lista progetti nel README
-        uses: jamesives/github-activity-readme@v0.3.0
+        uses: jamesives/github-activity-readme@v0.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: bobmoukhlis-hash
