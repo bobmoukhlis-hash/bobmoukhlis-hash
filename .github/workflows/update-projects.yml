@@ -2,27 +2,29 @@ name: 🧩 Aggiorna lista progetti
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # 09:00 UTC
+    - cron: "0 9 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: 🔹 Clona il repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: ⚙️ Aggiorna lista progetti nel README
+      - name: Aggiorna lista progetti nel README
         uses: jamesives/github-activity-readme@v0.3.0
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: bobmoukhlis-hash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: bobmoukhlis-hash
           MAX_REPOS: 5
 
-      - name: ✅ Commit finale
+      - name: Commit finale
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "🔄 Auto update progetti" || echo "Nessun cambiamento"
+          git commit -m "Auto update progetti" || echo "Nessun cambiamento"
           git push
