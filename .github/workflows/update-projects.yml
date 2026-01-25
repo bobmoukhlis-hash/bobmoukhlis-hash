@@ -1,29 +1,25 @@
-name: Aggiorna lista progetti
+name: GitHub Metrics
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 9 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Aggiorna progetti nel README
-        uses: bobmoukhlis-hash/github-projects-readme@v1
+      - uses: lowlighter/metrics@latest
         with:
-          username: bobmoukhlis-hash
-          max_repos: 6
-
-      - name: Commit finale
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "🔄 Aggiornamento automatico progetti" || echo "Nessun cambiamento"
-          git push
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: bobmoukhlis-hash
+          template: classic
+          base: header, repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: yes
+          plugin_repositories_pinned: yes
+          plugin_repositories_order: stars
+          plugin_repositories_limit: 6
