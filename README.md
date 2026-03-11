@@ -33,10 +33,10 @@ Gioco puzzle casual ambientato nel mondo azteco.
 Gioco action / shooter multiplayer.  
 👉 https://play.google.com/store/apps/details?id=battle.hunt
 
-🤖 **ChatAI Bob (Android)**  
-Assistente AI intelligente con modalità online e offline.  
-⏳ In pubblicazione su Google Play
-## 🚀 Ultimi progetti pubblici (aggiornamento automatico)
+📱 **ChatAI Bob (Android)**  
+Assistente AI intelligente per generare idee, rispondere alle domande e aiutare nella creazione di contenuti.
+
+👉 https://play.google.com/store/apps/details?id=chatai.bob12
 
 <!--START_SECTION:projects-->
 <!-- I tuoi ultimi repository appariranno qui automaticamente -->
